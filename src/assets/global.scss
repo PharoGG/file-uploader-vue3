@@ -1,0 +1,11 @@
+$font-stack: 'Arial', sans-serif;
+$primary-color: #333;
+$border-color: #e5e7eb;
+$shadow-color: rgba(0, 0, 0, 0.04);
+$background-color-component: #fff;
+
+body, html {
+  font: 100% $font-stack;
+  color: $primary-color;
+  background-color: rgb(245, 245, 245);
+}
